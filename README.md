@@ -6,7 +6,7 @@ This project aims to migrate the Flutter SDK to RISC-V Architecture. Below is a 
 
  - A RISC-V Machine (Virtual Machine also works)
  - A stable internet connection
- - About 20GB of storage
+ - At least 20GB of storage
 
 
 
