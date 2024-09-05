@@ -39,8 +39,8 @@ Please follow the steps below in order for Flutter SDK to run correctly.
 
 Currently, I have only tested this with Flutter SDK version 3.24.0. It is recommended that you use this version. But feel free to test this method on other versions as well.
 
-    wget https://storage.googleapis.com/flutter_infra_release/releases/stable/linux/flutter_linux_3.24.0-stable.tar.xz
-    tar -xvJf flutter_linux_3.24.0-stable.tar.xz
+    wget https://storage.googleapis.com/flutter_infra_release/releases/stable/linux/flutter_linux_3.24.2-stable.tar.xz
+    tar -xvJf flutter_linux_3.24.2-stable.tar.xz
 BTW, if any dependencies are missing, go ahead and get them installed and then run the commands again.
 
 ## 2. Download the Dart SDK
